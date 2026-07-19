@@ -269,7 +269,7 @@ export default function App() {
                       >
                         {/* Premium high-quality traveler girl background matching description */}
                         <img
-                          src="./src/assets/images/beautifulseaview.gif"
+                          src="https://res.cloudinary.com/pqfthwqb/image/upload/v1784466192/beautifulseaview_chhnuq.gif"
                           alt="Traveler with backpack exploring map"
                           referrerPolicy="no-referrer"
                           className="w-full h-full object-cover transform scale-105 hover:scale-100 duration-1000"

@@ -34,7 +34,7 @@ export default function Header({ onNavigate, onExploreClick }: HeaderProps) {
           >
             <div className="text-white rounded-xl shadow-md group-hover:bg-sky-600 transition-all duration-300 transform group-hover:rotate-12">
               {/*Compass className="h-6 w-6" id="logo-icon" />*/}
-              <img src="./src/assets/images/logo.png" alt="logo-icon" className="h-15 w-15" id="logo-icon" />
+              <img src="https://res.cloudinary.com/pqfthwqb/image/upload/v1784466147/logo_t7aiso.png" alt="logo-icon" className="h-15 w-15" id="logo-icon" />
             </div>
             <span className="text-2xl font-bold tracking-tight text-slate-800">
               Blue<span className="text-sky-500">Haven</span>
