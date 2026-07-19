@@ -56,15 +56,15 @@ export default function Footer({ onBackToTop }: FooterProps) {
             <ul className="space-y-3 text-sm">
               <li className="flex items-center space-x-3 text-slate-400 hover:text-sky-400 transition-colors">
                 <Phone className="h-4 w-4 text-sky-400 flex-shrink-0" />
-                <span>+04 11 123 456</span>
+                <span>+94 72 16 55 679</span>
               </li>
               <li className="flex items-center space-x-3 text-slate-400 hover:text-sky-400 transition-colors">
                 <Phone className="h-4 w-4 text-sky-400 flex-shrink-0" />
-                <span>+94 77 789 321</span>
+                <span>+94 76 36 80 230</span>
               </li>
               <li className="flex items-center space-x-3 text-slate-400 hover:text-sky-400 transition-colors">
                 <Mail className="h-4 w-4 text-sky-400 flex-shrink-0" />
-                <span>info@bluehaven.lk</span>
+                <span>hardworkfreelanzer@gmail.com</span>
               </li>
             </ul>
           </div>
@@ -85,15 +85,15 @@ export default function Footer({ onBackToTop }: FooterProps) {
           <div className="flex flex-wrap justify-center items-center gap-6 sm:gap-8 text-slate-400">
             <span className="flex items-center space-x-1.5 hover:text-sky-400 transition-colors">
               <Phone className="h-3.5 w-3.5 text-sky-400" />
-              <span>+04 11 123 456</span>
+              <span>+94 72 16 55 679</span>
             </span>
             <span className="flex items-center space-x-1.5 hover:text-sky-400 transition-colors">
               <Phone className="h-3.5 w-3.5 text-sky-400" />
-              <span>+94 77 789 321</span>
+              <span>+94 76 36 80 230</span>
             </span>
             <span className="flex items-center space-x-1.5 hover:text-sky-400 transition-colors">
               <Globe className="h-3.5 w-3.5 text-sky-400" />
-              <span>bluehaven.lk</span>
+              <span>https://bluehaven-olive.vercel.app/</span>
             </span>
             <span className="flex items-center space-x-1.5 hover:text-sky-400 transition-colors">
               <Facebook className="h-3.5 w-3.5 text-sky-400" />
