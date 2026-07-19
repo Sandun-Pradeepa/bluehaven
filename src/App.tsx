@@ -49,7 +49,10 @@ export default function App() {
   useEffect(() => {
     async function fetchDestinations() {
       try {
-        const response = await fetch('/api/destinations');
+        const API_URL = import.meta.env.VITE_API_URL || '';
+        const response = await fetch(`${API_URL}/api/destinations`);
+
+        //const response = await fetch('/api/destinations');
         if (!response.ok) {
           throw new Error('Could not fetch destinations');
         }

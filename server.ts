@@ -1,3 +1,4 @@
+import cors from 'cors';
 import express from 'express';
 import path from 'path';
 import { createServer as createViteServer } from 'vite';
@@ -19,6 +20,8 @@ async function startServer() {
 
   // Middleware for body parsing
   app.use(express.json());
+
+  app.use(cors());
 
   // Initialize the database (MongoDB or file fallback)
   await initDatabase();
