@@ -1,0 +1,98 @@
+[
+  {
+    "id": "h-ella-1",
+    "name": "Dream Cliff Hotel",
+    "image": "https://images.unsplash.com/photo-1618773928121-c32242e63f39?auto=format&fit=crop&w=600&q=80",
+    "destinationId": "ella"
+  },
+  {
+    "id": "h-ella-2",
+    "name": "EKHO Hotel",
+    "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=600&q=80",
+    "destinationId": "ella"
+  },
+  {
+    "id": "h-galle-1",
+    "name": "Radisson Blu Resort",
+    "image": "https://images.unsplash.com/photo-1540541338287-41700207dee6?auto=format&fit=crop&w=600&q=80",
+    "destinationId": "galle"
+  },
+  {
+    "id": "h-galle-2",
+    "name": "Amangalla Hotel",
+    "image": "https://images.unsplash.com/photo-1582719508461-905c673771fd?auto=format&fit=crop&w=600&q=80",
+    "destinationId": "galle"
+  },
+  {
+    "id": "h-ne-1",
+    "name": "Jetwing St. Andrew's Hotel",
+    "image": "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?auto=format&fit=crop&w=600&q=80",
+    "destinationId": "nuwara-eliya"
+  },
+  {
+    "id": "h-ne-2",
+    "name": "Araliya Green Hills Hotel",
+    "image": "https://images.unsplash.com/photo-1445019980597-93fa8acb246c?auto=format&fit=crop&w=600&q=80",
+    "destinationId": "nuwara-eliya"
+  },
+  {
+    "id": "h-sigiriya-1",
+    "name": "Aliya Resort & Spa",
+    "image": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?auto=format&fit=crop&w=600&q=80",
+    "destinationId": "sigiriya"
+  },
+  {
+    "id": "h-sigiriya-2",
+    "name": "Jetwing Vil Uyana",
+    "image": "https://images.unsplash.com/photo-1571896349842-33c89424de2d?auto=format&fit=crop&w=600&q=80",
+    "destinationId": "sigiriya"
+  },
+  {
+    "id": "h-mirissa-1",
+    "name": "Mandara Resort",
+    "image": "https://images.unsplash.com/photo-1571003123894-1f0594d2b5d9?auto=format&fit=crop&w=600&q=80",
+    "destinationId": "mirissa"
+  },
+  {
+    "id": "h-mirissa-2",
+    "name": "Randiya Sea View Hotel",
+    "image": "https://images.unsplash.com/photo-1529290130-4ca3753253ae?auto=format&fit=crop&w=600&q=80",
+    "destinationId": "mirissa"
+  },
+  {
+    "id": "h-yala-1",
+    "name": "Uga Chena Huts",
+    "image": "https://images.unsplash.com/photo-1546548970-71785318a17b?auto=format&fit=crop&w=600&q=80",
+    "destinationId": "yala"
+  },
+  {
+    "id": "h-yala-2",
+    "name": "Wild Coast Tented Lodge",
+    "image": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?auto=format&fit=crop&w=600&q=80",
+    "destinationId": "yala"
+  },
+  {
+    "id": "h-yapahuwa-1",
+    "name": "Paradise Hotel",
+    "image": "https://images.unsplash.com/photo-1561501900-3701fa6a0864?auto=format&fit=crop&w=600&q=80",
+    "destinationId": "yapahuwa"
+  },
+  {
+    "id": "h-yapahuwa-2",
+    "name": "Ranweli Holiday Village",
+    "image": "https://images.unsplash.com/photo-1499793983690-e29da59ef1c2?auto=format&fit=crop&w=600&q=80",
+    "destinationId": "yapahuwa"
+  },
+  {
+    "id": "h-df-1",
+    "name": "Diyaluma INN",
+    "image": "https://images.unsplash.com/photo-1432303491130-c3a529368953?auto=format&fit=crop&w=600&q=80",
+    "destinationId": "diyaluma-falls"
+  },
+  {
+    "id": "h-df-2",
+    "name": "Living Heritage",
+    "image": "https://images.unsplash.com/photo-1506929562872-bb421503ef21?auto=format&fit=crop&w=600&q=80",
+    "destinationId": "diyaluma-falls"
+  }
+]

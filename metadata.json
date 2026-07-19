@@ -1,0 +1,6 @@
+{
+  "name": "BlueHaven",
+  "description": "A premium animated full-stack travel booking web application featuring modern Sri Lankan destinations and luxury travel services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
